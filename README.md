@@ -1,3 +1,7 @@
+### EX.NO: 02
+
+### DATE : 
+
 # Palindrome
 
 
